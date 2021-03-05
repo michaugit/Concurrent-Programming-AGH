@@ -1,0 +1,17 @@
+### Sprawozdanie LAB 2 ###
+##########################
+
+Podczas dzisiejszych zajęć udało się zrealizować wszystkie wytyczne, mianowicie:
+	-> pobrałem i uruchomiłem podany zestaw programów do przeanalizowania, dzięki którym odnalazłem się trochę lepiej w adzie (jak wykonywać wszystkie podstawowe czynności), w której nie programowałem nigdy wcześniej :)
+
+W dalszej części przystąpiłem do realizacji przydzielonego zadania, z którego udało mi się zrealizować wszystkie podpunkty:
+	-> jest zadeklarowana tablica, zawierająca liczby rzeczywiste
+	-> jest przypisanie dowolnych wartości do tej tablicy (patrz tab1.adb - jak to można zrobić)
+	-> funkcja lub procedura wyświetlająca zawartość tablicy na ekranie
+	-> funkcja sprawdzająca czy tablica jest posortowana (najszybciej to można zrobić za pomocą kwantyfikatora -> "for all", patrz wykład "Ada sekwencyjna")
+	-> procedura sortująca tablicę dowolną metodą
+	-> podprogramy są wydzielone do osobnego pakietu.
+
+Do sortowania wybrałem najprostszy, choć nie optymalny sposób, mianowicie sortowanie bąbelkowe "BubbleSort". 
+
+Większość zadań była na podobnym poziomie, zatem można powiedzieć, że albo żaden punkt nie przysporzył problemów, albo wszystkie :)

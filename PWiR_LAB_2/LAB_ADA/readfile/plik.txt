@@ -1,0 +1,4 @@
+Plik do
+odczytu
+skladajcy sie z wielu
+linijek

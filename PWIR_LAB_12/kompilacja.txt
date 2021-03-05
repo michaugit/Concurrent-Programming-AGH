@@ -1,0 +1,11 @@
+Kompilacja:
+
+gprbuild -P main.gpr
+
+lub
+
+gnatmake -P main.gpr
+
+Czyszczenie:
+
+gprclean main.gpr 
